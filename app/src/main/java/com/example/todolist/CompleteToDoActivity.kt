@@ -26,7 +26,7 @@ class CompleteToDoActivity : AppCompatActivity() {
 
 		}
 
-		editBtn.setOnClickListener {
-		}
+//		editBtn.setOnClickListener {
+//		}
 	}
 }
